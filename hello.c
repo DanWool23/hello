@@ -15,5 +15,7 @@ int main(int argc, char **argv) {
 
     printf("My Major is Robotics Engineering\n");
 
+    printf("Robotics in a new major at UNL\n");
+    
     return 0;
 }
